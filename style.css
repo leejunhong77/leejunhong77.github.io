@@ -74,7 +74,7 @@ body {
     color: #7aa46b;
     font-size: 32px;
     font-weight: 600;
-    box-shadow: 0 10px 25px rgba(111, 87, 210, 0.263);
+    box-shadow: 0 10px 25px rgba(87, 210, 138, 0.263);
 }
 
 .profile-right h2 {
@@ -168,5 +168,6 @@ body {
     }
 
 }
+
 
 
