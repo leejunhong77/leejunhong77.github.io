@@ -71,7 +71,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #f1f5fa;
+    color: #7aa46b;
     font-size: 32px;
     font-weight: 600;
     box-shadow: 0 10px 25px rgba(111, 87, 210, 0.263);
@@ -168,3 +168,4 @@ body {
     }
 
 }
+
